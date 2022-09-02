@@ -303,6 +303,12 @@
     "en": "To-do list",
     "fr": "Liste de tâches"
   },
+  "Unpin": {
+    "fr": "Désépingler"
+  },
+  "Unpin this widget to view it in this panel": {
+    "fr": "Désépinglez ce widget pour l’afficher dans ce panneau"
+  },
   "Upload file": {
     "en": "Attach a file",
     "fr": "Joindre un fichier"
