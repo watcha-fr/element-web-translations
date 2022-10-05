@@ -360,5 +360,38 @@
   "joe@example.com": {
     "en": "joe@example.com",
     "fr": "julie@exemple.com"
+  },
+
+  "An error occurred changing the room's Nextcloud share.": {
+    "en": "An error occurred changing the room's Nextcloud share.",
+    "fr": "Une erreur est survenue lors du changement changement de partage Nextcloud."
+  },
+  "Change the shared folder": {
+    "en": "Change the shared folder",
+    "fr": "Changer le dossier partagé"
+  },
+  "Document sharing": {
+    "en": "Document sharing",
+    "fr": "Partage de documents"
+  },
+  "Error changing Nextcloud share": {
+    "en": "Error changing Nextcloud share",
+    "fr": "Erreur de changement de partage Nextcloud"
+  },
+  "No document shared with this room": {
+    "en": "No document shared with this room",
+    "fr": "Aucun document partagé avec ce salon"
+  },
+  "Share a folder": {
+    "en": "Share a folder",
+    "fr": "Partager un dossier"
+  },
+  "Shared folder": {
+    "en": "Shared folder",
+    "fr": "Dossier partagé"
+  },
+  "Stop sharing": {
+    "en": "Stop sharing",
+    "fr": "Arrêter le partage"
   }
 }
