@@ -59,6 +59,10 @@
     "en": "Also visible in contextual menus",
     "fr": "Visible également dans les menus contextuels"
   },
+  "Also visible on incoming invitations": {
+    "en": "Also visible on incoming invitations",
+    "fr": "Visible également sur les invitations entrantes"
+  },
   "An invitation will be sent to this email address": {
     "en": "An invitation will be sent to this email address",
     "fr": "Une invitation sera envoyée à cette adresse"
@@ -248,9 +252,13 @@
     "en": "Share documents",
     "fr": "Partager des documents"
   },
-  "Show buttons to ignore users": {
-    "en": "Show buttons to ignore users",
-    "fr": "Afficher les boutons permettant d'ignorer les utilisateurs"
+  "Show button to disable the user's account": {
+    "en": "Show button to disable the user's account",
+    "fr": "Afficher le bouton permettant de désactiver le compte de l'utilisateur"
+  },
+  "Show button to ignore user": {
+    "en": "Show button to ignore user",
+    "fr": "Afficher le bouton permettant d'ignorer l'utilisateur"
   },
   "Show chat attachments": {
     "en": "Show chat attachments",
@@ -322,6 +330,10 @@
     "en": "User directory",
     "fr": "Répertoire des utilisateurs"
   },
+  "User profile": {
+    "en": "User profile",
+    "fr": "Profil des utilisateurs"
+  },
   "Users with an email address belonging to this domain <b></b> should not be invited as external partners": {
     "en": "Users with an email address belonging to this domain <b></b> should not be invited as external partners",
     "fr": "Les utilisateurs ayant une adresse électronique appartenant au domaine <b></b> ne doivent pas être invités en tant que partenaires externes"
@@ -329,10 +341,6 @@
   "Videoconferencing": {
     "en": "Videoconferencing",
     "fr": "Visioconférence"
-  },
-  "Visible on user profiles and incoming invitations": {
-    "en": "Visible on user profiles and incoming invitations",
-    "fr": "Visibles sur le profil des utilisateurs et les invitations entrantes"
   },
   "You are logged in from a partner account with limited rights": {
     "en": "You are logged in from a partner account with limited rights",
