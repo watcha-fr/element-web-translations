@@ -119,6 +119,12 @@
     "en": "Enable WebRTC for one-to-one calls",
     "fr": "Activer le WebRTC pour les appels individuels"
   },
+  "Export Chat": {
+    "fr": "Exporter la conversation"
+  },
+  "Export chat": {
+    "fr": "Exporter la conversation"
+  },
   "Filter users": {
     "en": "Filter users",
     "fr": "Filtrer les utilisateurs"
