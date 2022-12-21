@@ -69,7 +69,7 @@
   },
   "Are you sure you want to delete the calendar and to-do list of this room?": {
     "en": "Are you sure you want to delete the calendar and to-do list of this room?",
-    "fr": "Voulez-vous vraiment supprimer l'agenda et la liste de tâches de ce salon ?"
+    "fr": "Voulez-vous vraiment supprimer l’agenda et la liste de tâches de ce salon ?"
   },
   "Are you sure you want to end this sharing?": {
     "en": "Are you sure you want to end this sharing?",
@@ -89,7 +89,7 @@
   },
   "Calendars and to-do lists sharing": {
     "en": "Calendars and to-do lists sharing",
-    "fr": "Partage d'agendas et de listes de tâches"
+    "fr": "Partage d’agendas et de listes de tâches"
   },
   "Chat attachments": {
     "en": "Chat attachments",
@@ -97,7 +97,7 @@
   },
   "Click to add this user to the invitation list": {
     "en": "Click to add this user to the invitation list",
-    "fr": "Cliquez pour ajouter cet utilisateur à la liste d'invitations"
+    "fr": "Cliquez pour ajouter cet utilisateur à la liste d’invitations"
   },
   "Click to remove this invitation": {
     "en": "Click to remove this invitation",
@@ -105,11 +105,11 @@
   },
   "Contact us at <a></a>": {
     "en": "Contact us at <a></a>",
-    "fr": "Contactez-nous à l'adresse <a></a>"
+    "fr": "Contactez-nous à l’adresse <a></a>"
   },
   "Create and share a calendar including a to-do list: it will be dedicated to the room without you or any other member owning it": {
     "en": "Create and share a calendar including a to-do list: it will be dedicated to the room without you or any other member owning it",
-    "fr": "Créer et partager un agenda incluant une liste de tâches : il sera dédié au salon sans que vous ni aucun autre membre n'en soit propriétaire"
+    "fr": "Créer et partager un agenda incluant une liste de tâches : il sera dédié au salon sans que vous ni aucun autre membre n’en soit propriétaire"
   },
   "Documents": {
     "en": "Documents",
@@ -117,7 +117,7 @@
   },
   "Enable Nextcloud integration": {
     "en": "Enable Nextcloud integration",
-    "fr": "Activer l'intégration Nextcloud"
+    "fr": "Activer l’intégration Nextcloud"
   },
   "Enable WebRTC for one-to-one calls": {
     "en": "Enable WebRTC for one-to-one calls",
@@ -135,11 +135,11 @@
   },
   "If you know what you're doing, Element is open-source, be sure to check out our GitHub (https://github.com/vector-im/element-web/) and contribute!": {
     "en": "If you know what you're doing, Watcha is open-source, be sure to check out our GitHub (https://github.com/watcha-fr/watcha) and contribute!",
-    "fr": "Si vous savez ce que vous faites, Watcha est un logiciel libre, n'hésitez pas à consulter notre GitHub (https://github.com/watcha-fr/watcha) et à contribuer !"
+    "fr": "Si vous savez ce que vous faites, Watcha est un logiciel libre, n’hésitez pas à consulter notre GitHub (https://github.com/watcha-fr/watcha) et à contribuer !"
   },
   "Invitation list": {
     "en": "Invitation list",
-    "fr": "Liste d'invitations"
+    "fr": "Liste d’invitations"
   },
   "Invite to <span>%(roomName)s</span>": {
     "en": "Invite to <span>%(roomName)s</span>",
@@ -151,7 +151,7 @@
   },
   "It is not possible to share two resources of the same type within the same room": {
     "en": "It is not possible to share two resources of the same type within the same room",
-    "fr": "Il n'est pas possible de partager deux ressources du même type au sein d'un même salon"
+    "fr": "Il n’est pas possible de partager deux ressources du même type au sein d'un même salon"
   },
   "My documents": {
     "en": "My documents",
@@ -190,7 +190,7 @@
   },
   "Open the administration console in a new tab": {
     "en": "Open the administration console in a new tab",
-    "fr": "Ouvrir la console d'administration dans un nouvel onglet"
+    "fr": "Ouvrir la console d’administration dans un nouvel onglet"
   },
   "Open the videoconferencing platform in a new tab": {
     "en": "Open the videoconferencing platform in a new tab",
@@ -242,11 +242,11 @@
   },
   "Share a Nextcloud calendar and to-do list with room members and use it as a common planning basis.": {
     "en": "Share a Nextcloud calendar and to-do list with room members and use it as a common planning basis.",
-    "fr": "Partager un agenda et une liste de tâches Nextcloud avec les membres du salon et l'utiliser comme base de planification commune."
+    "fr": "Partager un agenda et une liste de tâches Nextcloud avec les membres du salon et l’utiliser comme base de planification commune."
   },
   "Share a Nextcloud folder with room members and use it as a common storage space.": {
     "en": "Share a Nextcloud folder with room members and use it as a common storage space.",
-    "fr": "Partager un dossier Nextcloud avec les membres du salon et l'utiliser comme espace de stockage commun."
+    "fr": "Partager un dossier Nextcloud avec les membres du salon et l’utiliser comme espace de stockage commun."
   },
   "Share documents": {
     "en": "Share documents",
@@ -254,11 +254,11 @@
   },
   "Show button to disable the user's account": {
     "en": "Show button to disable the user's account",
-    "fr": "Afficher le bouton permettant de désactiver le compte de l'utilisateur"
+    "fr": "Afficher le bouton permettant de désactiver le compte de l’utilisateur"
   },
   "Show button to ignore user": {
     "en": "Show button to ignore user",
-    "fr": "Afficher le bouton permettant d'ignorer l'utilisateur"
+    "fr": "Afficher le bouton permettant d’ignorer l'utilisateur"
   },
   "Show chat attachments": {
     "en": "Show chat attachments",
@@ -270,11 +270,11 @@
   },
   "Show end-to-end encryption related UI": {
     "en": "Show end-to-end encryption related UI",
-    "fr": "Afficher l'interface utilisateur liée au chiffrement de bout en bout"
+    "fr": "Afficher l’interface utilisateur liée au chiffrement de bout en bout"
   },
   "Show explore chat attachments button": {
     "en": "Show explore chat attachments button",
-    "fr": "Afficher le bouton permettant d'explorer les fichiers joints à la discussion"
+    "fr": "Afficher le bouton permettant d’explorer les fichiers joints à la discussion"
   },
   "Show share message button": {
     "en": "Show share message button",
@@ -286,7 +286,7 @@
   },
   "Show the calendar shared with the room": {
     "en": "Show the calendar shared with the room",
-    "fr": "Afficher l'agenda partagé avec le salon"
+    "fr": "Afficher l’agenda partagé avec le salon"
   },
   "Show the to-do list shared with the room": {
     "en": "Show the to-do list shared with the room",
@@ -294,7 +294,7 @@
   },
   "Show view source button": {
     "en": "Show view source button",
-    "fr": "Afficher le bouton permettant de voir l'évènement source du message"
+    "fr": "Afficher le bouton permettant de voir l’évènement source du message"
   },
   "This email address belongs to a user already invited to this room": {
     "en": "This email address belongs to a user already invited to this room",
@@ -306,7 +306,7 @@
   },
   "This email address belongs to a user you have already added to the invitation list": {
     "en": "This email address belongs to a user you have already added to the invitation list",
-    "fr": "Cette adresse électronique appartient à un utilisateur que vous avez déjà ajouté à la liste d'invitations"
+    "fr": "Cette adresse électronique appartient à un utilisateur que vous avez déjà ajouté à la liste d’invitations"
   },
   "This email address is already bound to your account": {
     "en": "This email address is already bound to your account",
@@ -356,7 +356,7 @@
   },
   "You cannot place a call with yourself.": {
     "en": "You are the only connected user in this room, so you cannot start a call.",
-    "fr": "Vous êtes le seul utilisateur connecté de ce salon, il n'est donc pas possible de passer un appel."
+    "fr": "Vous êtes le seul utilisateur connecté de ce salon, il n’est donc pas possible de passer un appel."
   },
   "You do not have permission to share documents in this room": {
     "en": "You do not have permission to share documents in this room",
@@ -364,7 +364,7 @@
   },
   "You have already added this email address to the invitation list": {
     "en": "You have already added this email address to the invitation list",
-    "fr": "Vous avez déjà ajouté cette adresse électronique à la liste d'invitations"
+    "fr": "Vous avez déjà ajouté cette adresse électronique à la liste d’invitations"
   },
   "You want to collaborate with a partner from outside your organisation: invite them by e-mail": {
     "en": "You want to collaborate with a partner from outside your organisation: invite them by e-mail",
